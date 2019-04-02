@@ -17,5 +17,10 @@ namespace ConsoleApp1
         {
             return a * b;
         }
+
+        public double Div(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
